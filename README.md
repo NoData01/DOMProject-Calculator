@@ -15,7 +15,7 @@ A simple calculator project built using HTML, CSS, and JavaScript. This project 
 
 ## Project Structure
 - `index.html`: Contains the structure of the calculator.
-- `style.css`: Styles the calculator interface.
+- `styles.css`: Styles the calculator interface.
 - `script.js`: Handles the functionality and DOM manipulation.
 
 ---
